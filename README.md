@@ -1,1 +1,1 @@
-# Image-Classification-Projects
+# Potato-Disease-Classification
